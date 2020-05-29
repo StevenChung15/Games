@@ -1,0 +1,43 @@
+body{
+    background-color: #0073ff;
+    padding: 50px;
+}
+.container{
+    background-color: #00d0ff;
+    padding: 50px;
+}
+.row{
+    background-color: #0af4f8;
+    padding: 30px;
+}
+.list{
+    background-color: #f8ad0a;
+    padding: 30px;
+}
+.list a{
+    text-decoration: none;
+}
+.list hr{
+    height: 2px;
+    background-color: black;
+    color: black;
+}
+.emphasis{
+    color: red;
+}
+.new{
+    color: black;
+    background-color: white;
+    border-radius: 50px;
+    padding: 15px;
+    font-size: 30px;
+}
+.new:hover{
+    color: white;
+    background-color: black;
+    
+}
+#announcement{
+    font-size: 40px;
+    background-color: #fffb00;
+}
